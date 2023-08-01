@@ -1,6 +1,6 @@
 # About Live Weather Forecast
 
-* Checkout my web app --> https://howstheweatherlike.streamlit.app/#stock-current-value-196-02-usd 
+* Checkout my web app --> https://howstheweatherlike.streamlit.app/
 
 # weather.py -> Live Weather Forecast using Python and Streamlit
 
