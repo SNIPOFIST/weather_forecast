@@ -1,6 +1,6 @@
 # About Live Weather Forecast
 
-* Checkout my web app --> https://howstheweatherlike.streamlit.app/
+ ## Checkout my web app --> https://howstheweatherlike.streamlit.app/
 
 # weather.py -> Live Weather Forecast using Python and Streamlit
 
