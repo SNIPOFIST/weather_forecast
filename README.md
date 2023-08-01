@@ -7,4 +7,6 @@
 - The requests library was used for fetching the live weather data in json by passing the url and API key
 - Streamlit an Opensource framework was used for frontend user interactions and it was used for hosting the web app for free in streamlit 
   server
-The user is supposed to give a valid city name then the code does all the work and displays the live weather for that city
+- The user is supposed to give a valid city name then the code does all the work and displays the live weather for that city
+- The user will be displayed live weather , Date time, humidity , wind speed, temperature , latitude, longitude.
+- 
