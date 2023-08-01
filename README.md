@@ -9,4 +9,4 @@
   server
 - The user is supposed to give a valid city name then the code does all the work and displays the live weather for that city
 - The user will be displayed live weather , Date time, humidity , wind speed, temperature , latitude, longitude.
-- 
+
