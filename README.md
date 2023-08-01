@@ -1,4 +1,4 @@
-## Checkout my web app ### Live Weather Forecast using Python and Streamlit ###
+## Checkout my web app Live Weather Forecast using Python and Streamlit
 ## https://howstheweatherlike.streamlit.app/
 
 
