@@ -36,7 +36,7 @@ icons = {
 }
 def Weather(query_val):
     try:
-        data = {"access_key": "3cd9b3b9e0b7ae125ce30f4c04397d75",
+        data = {"access_key": "d4bec76b5a544df531113ec42e05507c",
                 "query": query_val}
         # keys of dict params- access_key and query are constant and cannot be changed
         req = requests.get('http://api.weatherstack.com/current', params=data)
