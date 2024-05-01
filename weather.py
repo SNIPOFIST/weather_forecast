@@ -97,5 +97,4 @@ with footer_col2:
     st.markdown("Stock Prize Analyser - [https://stocksinfo.streamlit.app/](https://stocksinfo.streamlit.app/)")
 st.divider()
 
-st.caption("source code repo")
-st.code('''https://github.com/SNIPOFIST/weather_forecast''')
+
